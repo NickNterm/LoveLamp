@@ -1,0 +1,8 @@
+red 255.0.0 #ff0000
+green 0.255.0 #00ff00
+blue 0.50.255 #0032ff
+cyan  0.250.200 #00fac8
+purple 150.0.255 #9600ff
+pink 255.0.170 #ff00aa
+orange 255.50.0 #ff3200
+yellow 255.170.0 #ffaa00
