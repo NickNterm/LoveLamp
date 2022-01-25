@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "LoveLamp",
+    "slug": "LoveLamp",
+    "version": "1.5.0",
+    "backgroundColor": "#1A1A1A",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "androidStatusBar": {
+      "translucent": true
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "width": "50%",
+      "backgroundColor": "#1A1A1A"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1A1A1A"
+      },
+      "package": "com.nicknt.LoveLamp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
