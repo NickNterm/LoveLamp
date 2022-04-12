@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:love_lamp_bluetooth/colors.dart';
-import 'package:love_lamp_bluetooth/screens/selectDeviceScreen.dart';
+import 'package:love_lamp_bluetooth/screens/SelectDeviceScreen/selectDeviceScreen.dart';
 
 void main() {
   runApp(const MyApp());

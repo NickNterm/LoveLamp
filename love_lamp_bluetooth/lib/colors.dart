@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const kPrimaryColor = Colors.blue;
+const kPrimaryColor = Colors.lightBlue;
 const colorList = [
   Color(0XFFff0000),
   Color(0XFF00ff00),
